@@ -22,3 +22,15 @@ C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER\ER1\ProjetoTe
 C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER\ER1\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\refint\ProjetoTesteFS.dll
 C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER\ER1\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ProjetoTesteFS.pdb
 C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER\ER1\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ref\ProjetoTesteFS.dll
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\bin\Debug\net6.0\ProjetoTesteFS.deps.json
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\bin\Debug\net6.0\ProjetoTesteFS.dll
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\bin\Debug\net6.0\ProjetoTesteFS.pdb
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ProjetoTesteFS.csproj.AssemblyReference.cache
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ProjetoTesteFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ProjetoTesteFS.AssemblyInfoInputs.cache
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ProjetoTesteFS.AssemblyInfo.cs
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ProjetoTesteFS.csproj.CoreCompileInputs.cache
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ProjetoTesteFS.dll
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\refint\ProjetoTesteFS.dll
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ProjetoTesteFS.pdb
+C:\Users\thiago.freitas\Desktop\Full-Stack--SENAI\Back End\UC15\ER e Atividades\ER2\ProjetoTesteFSNutriVitta\ProjetoTesteFS\obj\Debug\net6.0\ref\ProjetoTesteFS.dll

@@ -6229,11 +6229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER\\ER1\\ProjetoTesteFSNutriVitta\\TestMSTeste\\TestMSTeste.csproj",
+      "projectUniqueName": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER e Atividades\\ER2\\ProjetoTesteFSNutriVitta\\TestMSTeste\\TestMSTeste.csproj",
       "projectName": "TestMSTeste",
-      "projectPath": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER\\ER1\\ProjetoTesteFSNutriVitta\\TestMSTeste\\TestMSTeste.csproj",
+      "projectPath": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER e Atividades\\ER2\\ProjetoTesteFSNutriVitta\\TestMSTeste\\TestMSTeste.csproj",
       "packagesPath": "C:\\Users\\thiago.freitas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER\\ER1\\ProjetoTesteFSNutriVitta\\TestMSTeste\\obj\\",
+      "outputPath": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER e Atividades\\ER2\\ProjetoTesteFSNutriVitta\\TestMSTeste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thiago.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6250,8 +6250,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER\\ER1\\ProjetoTesteFSNutriVitta\\ProjetoTesteFS\\ProjetoTesteFS.csproj": {
-              "projectPath": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER\\ER1\\ProjetoTesteFSNutriVitta\\ProjetoTesteFS\\ProjetoTesteFS.csproj"
+            "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER e Atividades\\ER2\\ProjetoTesteFSNutriVitta\\ProjetoTesteFS\\ProjetoTesteFS.csproj": {
+              "projectPath": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER e Atividades\\ER2\\ProjetoTesteFSNutriVitta\\ProjetoTesteFS\\ProjetoTesteFS.csproj"
             }
           }
         }
@@ -6298,7 +6298,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

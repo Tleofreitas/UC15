@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xJqjA0AFWYldKa1blilZLTKXPfHTtLS/rwJE3ti676erhbf/9kUpKjKQQjumesfEiCjygVm+giDF0eq2KeGZkw==",
+  "dgSpecHash": "BXJ7e6w256skdRZRwvtYT+q2uGe9pfmC7hAaSNUl1DBHG4g4+KVFdDzfxhDwzH3brBiOwInG7/ZxCy4nUrebPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER\\ER1\\ProjetoTesteFSNutriVitta\\TestMSTeste\\TestMSTeste.csproj",
+  "projectFilePath": "C:\\Users\\thiago.freitas\\Desktop\\Full-Stack--SENAI\\Back End\\UC15\\ER e Atividades\\ER2\\ProjetoTesteFSNutriVitta\\TestMSTeste\\TestMSTeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiago.freitas\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\thiago.freitas\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
